@@ -5,7 +5,7 @@
 </p>
 
 ## Instalation
-
+Virtual Internship Experience (Investree) - Fullstack - Hatta Farhan Hasyim
 ### Prepare dependencies
     - composer install
     - cp .env.example .env
